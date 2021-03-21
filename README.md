@@ -24,7 +24,6 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * Chrome
 * Zoom
 * Visual Studio Code
-* Adobe Acrobat
 * Android Studio
 * MacBook App Store:
     * Xcode

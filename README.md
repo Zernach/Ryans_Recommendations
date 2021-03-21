@@ -28,4 +28,9 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * Android Studio
 * MacBook App Store:
     * Xcode
-    * Zoom, MS Word/Excel, Transporter, The Unarchiver, iMovie, Paint S
+    * Zoom
+    * MS Word/Excel
+    * Transporter
+    * The Unarchiver
+    * iMovie
+    * Paint S

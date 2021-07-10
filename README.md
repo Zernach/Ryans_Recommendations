@@ -22,7 +22,7 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * Visual Studio Code
 * Android Studio
 * MacBook App Store:
-    * Xcode
+    * XCode
     * Zoom
     * Transporter
     * The Unarchiver

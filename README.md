@@ -1,7 +1,7 @@
-# Ryans_Recommendations
+# ryans_recommendations
 How I setup my new laptop for programming websites, mobile apps, and data science projects...
 
-## App_Dev_Checklist
+## app_dev_checklist
 
 * [Install HomeBrew & Xcode’s Command Line Tools](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-macos) — plus agree to Xcode user-agreement
 * [Install git](https://git-scm.com/downloads)
@@ -15,11 +15,7 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * [Install yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable)
 * [Install Expo](https://docs.expo.io/get-started/installation/), register, and login
 
-## WebDev
-
-* [Install Gulp-CLI](https://bootstrapmade.com/help/dev-versions/)
-
-## Ryans_Software_Selections
+## ryans_software_selections
 
 * Chrome
 * Zoom
@@ -28,7 +24,6 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * MacBook App Store:
     * Xcode
     * Zoom
-    * MS Word/Excel
     * Transporter
     * The Unarchiver
     * iMovie

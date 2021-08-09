@@ -28,3 +28,10 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
     * The Unarchiver
     * iMovie
     * Paint S
+
+## Other random tips
+
+* Run this in your Jupyter notebook to make margins wider...
+
+> from IPython.core.display import display, HTML
+> display(HTML("<style>.container { width:100% !important; }</style>"))

@@ -7,6 +7,7 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * Install [git](https://git-scm.com/downloads)
 * Configure [SSH](http://kbroman.org/github_tutorial/pages/first_time.html)
 * Install [VSCode](https://code.visualstudio.com/download) and [Add Code to Path](https://code.visualstudio.com/docs/setup/mac) and install extensions listed at bottom of this ReadMe
+* Install [Ruby](https://github.com/rbenv/rbenv)
 * Install [Android Studio](https://developer.android.com/studio)
 * Install [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 * Install [Node.js](https://coolestguidesontheplanet.com/installing-node-js-on-macos/) & brew install npm & [grant npm permission](https://stackoverflow.com/questions/51967335/npm-install-permission-denied-macos/57777299#57777299)

@@ -26,6 +26,8 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
     * The Unarchiver
     * iMovie
     * Paint S
+    * WhatsApp
+    * Capto: Screen Capture & Recording 
 
 ## Other random tips
 

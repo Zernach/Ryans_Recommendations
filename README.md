@@ -22,7 +22,6 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * Android Studio
 * MacBook App Store:
     * XCode
-    * Zoom
     * Transporter
     * The Unarchiver
     * iMovie

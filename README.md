@@ -30,28 +30,25 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 
 ## Other random tips
 
-* Run this in your Jupyter notebook to make margins wider...
+![](https://ryan.zernach.com/wp-content/uploads/Screen-Shot-2022-09-19-at-10.52.35-AM.png)
+* Screenshot of desktop for app icons :)
+* VSCode Extensions
 
-> from IPython.core.display import display, HTML
-> display(HTML("<style>.container { width:100% !important; }</style>"))
-
-## VSCode Extensions
-
-* Bracket Pair Colorizer
-* Color Highlight
-* Dark+ Material
-* ES7 React/Redux/GraphQL
-* Github Copilot
-* GraphQL: Language Feature Support
-* GraphQL: Syntax Highlighting
-* Jupyter
-* Jupyter Keymap
-* Jupyter Notebook Renderers
-* Live Server
-* Material Icon Theme
-* Prettier ESLint
-* Pylance
-* Python
-* React Native Tools
-* SQLite
-* vscode-pdf
+   * Bracket Pair Colorizer
+   * Color Highlight
+   * Dark+ Material
+   * ES7 React/Redux/GraphQL
+   * Github Copilot
+   * GraphQL: Language Feature Support
+   * GraphQL: Syntax Highlighting
+   * Jupyter
+   * Jupyter Keymap
+   * Jupyter Notebook Renderers
+   * Live Server
+   * Material Icon Theme
+   * Prettier ESLint
+   * Pylance
+   * Python
+   * React Native Tools
+   * SQLite
+   * vscode-pdf

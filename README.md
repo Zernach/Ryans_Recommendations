@@ -3,6 +3,7 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 
 ## app_dev_checklist
 
+* Install XCode on App Store, open it to accept Terms
 * Install [HomeBrew & Xcode’s Command Line Tools](https://brew.sh/)
 * Install [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
 * Install [Ruby Environment Manager](https://github.com/rbenv/rbenv)

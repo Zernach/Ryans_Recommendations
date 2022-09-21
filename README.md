@@ -6,6 +6,7 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * Install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12), and then open it to accept Terms & Conditions, etc.
 * Install [HomeBrew & Xcode’s Command Line Tools](https://brew.sh/)
 * Install [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
+* Install [Java](https://www.oracle.com/java/technologies/downloads/)
 * Install [Ruby Environment Manager](https://github.com/rbenv/rbenv)
 * Install [git](https://git-scm.com/downloads)
 * Configure [SSH](http://kbroman.org/github_tutorial/pages/first_time.html)

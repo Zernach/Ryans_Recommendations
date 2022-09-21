@@ -7,7 +7,7 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * Install [HomeBrew & Xcode’s Command Line Tools](https://brew.sh/)
 * Install [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
 * Install [Java](https://www.oracle.com/java/technologies/downloads/)
-* Install [Ruby Environment Manager](https://github.com/rbenv/rbenv)
+* Install [Ruby Environment Manager](https://github.com/rbenv/rbenv) & use [this](https://blog.francium.tech/install-ruby-on-mac-m1-apple-silicon-with-rbenv-9253dde4e34a) to install a version of Ruby with rbenv
 * Install [git](https://git-scm.com/downloads)
 * Configure [SSH](http://kbroman.org/github_tutorial/pages/first_time.html)
 * Install [VSCode](https://code.visualstudio.com/download) and [Add Code to Path](https://code.visualstudio.com/docs/setup/mac) and install extensions listed at bottom of this ReadMe

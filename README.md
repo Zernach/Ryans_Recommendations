@@ -52,3 +52,8 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
    * React Native Tools
    * SQLite
    * vscode-pdf
+
+## Scripts
+```
+brew install git
+```

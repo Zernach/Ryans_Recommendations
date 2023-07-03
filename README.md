@@ -2,12 +2,11 @@
 How I setup my new laptop for programming websites, mobile apps, and data science projects...
 
 ## app_dev_checklist
-
 * Install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12), and then open it to accept Terms & Conditions, etc.
 * Install [HomeBrew & Xcode’s Command Line Tools](https://brew.sh/)
 * Install [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
 * Install [Java](https://www.oracle.com/java/technologies/downloads/)
-* Install [Ruby Environment Manager](https://github.com/rbenv/rbenv) & use [this](https://blog.francium.tech/install-ruby-on-mac-m1-apple-silicon-with-rbenv-9253dde4e34a) to install a version of Ruby with rbenv
+* Install [asdf]([https://github.com/rbenv/rbenv](https://asdf-vm.com/guide/getting-started.html)) and use it to install ruby
 * Install [git](https://git-scm.com/downloads)
 * Configure [SSH](http://kbroman.org/github_tutorial/pages/first_time.html)
 * Install [VSCode](https://code.visualstudio.com/download) and [Add Code to Path](https://code.visualstudio.com/docs/setup/mac) and install extensions listed at bottom of this ReadMe
@@ -19,7 +18,6 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * Install [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
 
 ## ryans_software_selections
-
 * Chrome
 * Zoom
 * Visual Studio Code
@@ -35,11 +33,7 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
     * Capto: Screen Capture & Recording 
 
 ## Other random tips
-
-![](https://ryan.zernach.com/wp-content/uploads/Screen-Shot-2022-09-19-at-10.52.35-AM.png)
-* Screenshot of desktop for app icons :)
 * VSCode Extensions
-
    * Bracket Pair Colorizer
    * Color Highlight
    * Dark+ Material

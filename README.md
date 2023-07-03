@@ -6,7 +6,7 @@ How I setup my new laptop for programming websites, mobile apps, and data scienc
 * Install [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
 * Install [Java](https://www.oracle.com/java/technologies/downloads/)
 * Configure [SSH](http://kbroman.org/github_tutorial/pages/first_time.html)
-* Install [VSCode](https://code.visualstudio.com/download) and [Add Code to Path](https://code.visualstudio.com/docs/setup/mac) and install extensions listed at bottom of this ReadMe
+* After installing VSCode, [add Code to Path](https://code.visualstudio.com/docs/setup/mac) and install extensions listed at bottom of this ReadMe
 * Install [Node.js](https://coolestguidesontheplanet.com/installing-node-js-on-macos/) & [grant npm permission](https://stackoverflow.com/questions/51967335/npm-install-permission-denied-macos/57777299#57777299)
 * Install [Expo](https://docs.expo.io/get-started/installation/), register, and login
 

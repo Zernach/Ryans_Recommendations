@@ -2,18 +2,13 @@
 How I setup my new laptop for programming websites, mobile apps, and data science projects...
 
 ## app_dev_checklist
-* Install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12), and then open it to accept Terms & Conditions, etc.
-* Install [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
-* Install [Java](https://www.oracle.com/java/technologies/downloads/)
 * Configure [SSH](http://kbroman.org/github_tutorial/pages/first_time.html)
 * After installing VSCode, [add Code to Path](https://code.visualstudio.com/docs/setup/mac) and install extensions listed at bottom of this ReadMe
-* Install [Node.js](https://coolestguidesontheplanet.com/installing-node-js-on-macos/) & [grant npm permission](https://stackoverflow.com/questions/51967335/npm-install-permission-denied-macos/57777299#57777299)
 * Install [Expo](https://docs.expo.io/get-started/installation/), register, and login
 
 ## ryans_software_selections
-* Chrome
 * MacBook App Store:
-    * XCode
+    * XCode and then open it to accept Terms & Conditions, etc.
     * Transporter
     * The Unarchiver
     * iMovie
@@ -54,14 +49,17 @@ echo -e "\n. \"$(brew --prefix asdf)/libexec/asdf.sh\"" >> ~/.bash_profile
 echo -e "\n. \"$(brew --prefix asdf)/etc/bash_completion.d/asdf.bash\"" >> ~/.bash_profile
 
 brew install git
-brew install npm
+brew install nvm
 brew install yarn
 brew install watchman
+brew install openjdk
+brew install --cask google-chrome
 brew install --cask visual-studio-code
 brew install --cask android-studio
 brew install --cask react-native-debugger
 brew install --cask capto
 brew install --cask whatsapp
 brew install --cask slack
+brew install --cask rectangle
 
 ```

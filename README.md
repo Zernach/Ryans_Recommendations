@@ -36,7 +36,7 @@ brew install --cask rectangle
 * Install [Expo](https://docs.expo.io/get-started/installation/), register, and login
 
 ## ⚙️ <u>MacBook App Store</u>
-* XCode and then open it to accept Terms & Conditions, etc.
+* XCode and then open it to accept Terms & Conditions, and select XCode Command Line Tools version
 * Transporter
 * The Unarchiver
 * iMovie

@@ -1,7 +1,7 @@
 # ryans_recommendations
 How I setup my machines for mobile app development and web development.
 
-## Scripts
+## ⚙️ <u>Scripts</u>
 ```
 # install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -30,36 +30,35 @@ brew install --cask rectangle
 
 ```
 
-## app_dev_checklist
+## ⚙️ <u>Additional Steps</u>
 * Configure [SSH](http://kbroman.org/github_tutorial/pages/first_time.html)
 * After installing VSCode, [add Code to Path](https://code.visualstudio.com/docs/setup/mac) and install extensions listed at bottom of this ReadMe
 * Install [Expo](https://docs.expo.io/get-started/installation/), register, and login
 
-## ryans_software_selections
-* MacBook App Store:
-    * XCode and then open it to accept Terms & Conditions, etc.
-    * Transporter
-    * The Unarchiver
-    * iMovie
-    * Paint S
+## ⚙️ <u>MacBook App Store</u>
+* XCode and then open it to accept Terms & Conditions, etc.
+* Transporter
+* The Unarchiver
+* iMovie
+* Paint S
 
-## Other random tips
-* VSCode Extensions
-   * Bracket Pair Colorizer
-   * Color Highlight
-   * Dark+ Material
-   * ES7 React/Redux/GraphQL
-   * Github Copilot
-   * GraphQL: Language Feature Support
-   * GraphQL: Syntax Highlighting
-   * Jupyter
-   * Jupyter Keymap
-   * Jupyter Notebook Renderers
-   * Live Server
-   * Material Icon Theme
-   * Prettier ESLint
-   * Pylance
-   * Python
-   * React Native Tools
-   * SQLite
-   * vscode-pdf
+## ⚙️ <u>VSCode Extensions</u>
+* Bracket Pair Colorizer
+* Jest
+* Color Highlight
+* Dark+ Material
+* ES7 React/Redux/GraphQL
+* Github Copilot
+* GraphQL: Language Feature Support
+* GraphQL: Syntax Highlighting
+* Jupyter
+* Jupyter Keymap
+* Jupyter Notebook Renderers
+* Live Server
+* Material Icon Theme
+* Prettier ESLint
+* Pylance
+* Python
+* React Native Tools
+* SQLite
+* vscode-pdf

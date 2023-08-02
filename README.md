@@ -19,6 +19,7 @@ brew install nvm
 brew install yarn
 brew install watchman
 brew install openjdk
+
 brew install --cask google-chrome
 brew install --cask visual-studio-code
 brew install --cask android-studio
@@ -26,6 +27,7 @@ brew install --cask react-native-debugger
 brew install --cask capto
 brew install --cask whatsapp
 brew install --cask slack
+brew install --cask zoom
 brew install --cask rectangle
 
 ```

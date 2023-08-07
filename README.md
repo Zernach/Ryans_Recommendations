@@ -24,6 +24,7 @@ brew install --cask google-chrome
 brew install --cask visual-studio-code
 brew install --cask android-studio
 brew install --cask react-native-debugger
+brew install --cask vpn-by-google-one
 brew install --cask capto
 brew install --cask whatsapp
 brew install --cask slack

@@ -21,16 +21,38 @@ brew install watchman
 brew install openjdk
 brew install applesimutils
 
+# web browser
 brew install --cask google-chrome
+
+# code editor
 brew install --cask visual-studio-code
+
+# run android device emulators
 brew install --cask android-studio
+
+# debugging for iOS/Android apps
 brew install --cask react-native-debugger
+
+# vpn
 brew install --cask vpn-by-google-one
+
+# screen capturing/recording software
 brew install --cask kap
+
+# social chats
 brew install --cask whatsapp
+
+# team communications tool
 brew install --cask slack
+
+# telecommunications
 brew install --cask zoom
+
+# windows management for macbook
 brew install --cask rectangle
+
+# video games
+brew install --cask steam
 
 ```
 

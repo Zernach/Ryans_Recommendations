@@ -20,6 +20,7 @@ brew install yarn
 brew install watchman
 brew install openjdk
 brew install applesimutils
+brew install cocoapods
 
 # web browser
 brew install --cask google-chrome

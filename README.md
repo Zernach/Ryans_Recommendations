@@ -2,7 +2,7 @@
 How I setup my machines for mobile app development and web development.
 
 ## ⚙️ <u>Scripts</u>
-```
+```sh
 # install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 

@@ -14,13 +14,10 @@ brew install asdf
 echo -e "\n. \"$(brew --prefix asdf)/libexec/asdf.sh\"" >> ~/.bash_profile
 echo -e "\n. \"$(brew --prefix asdf)/etc/bash_completion.d/asdf.bash\"" >> ~/.bash_profile
 
-brew install git
-brew install nvm
-brew install yarn
-brew install watchman
-brew install openjdk
-brew install applesimutils
-brew install cocoapods
+brew tap wix/brew
+brew install git nvm yarn watchman openjdk applesimutils cocoapods
+
+source ~/.nvm/nvm.sh
 
 brew install --cask google-chrome visual-studio-code android-studio react-native-debugger vpn-by-google-one kap whatsapp slack zoom rectangle steam
 

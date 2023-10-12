@@ -57,7 +57,7 @@ Next make sure [XCode from the MacBook App Store](https://apps.apple.com/us/app/
 4. Click the drop down next to `Command Line Tools` and select the version of Xcode you are currently using.
 
 ## ⚙️ <u>MacBook App Store</u>
-* XCode and then open it to accept Terms & Conditions, and select XCode Command Line Tools version
+* XCode
 * Transporter
 * The Unarchiver
 * iMovie

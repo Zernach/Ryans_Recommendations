@@ -15,6 +15,8 @@ brew install --cask asdf google-chrome visual-studio-code android-studio react-n
 
 npm install -g react-native-cli @react-native-community/cli expo-cli
 
+expo login
+
 ```
 
 ## ⚙️ <u>.zshrc</u>
@@ -27,7 +29,6 @@ source ~/.nvm/nvm.sh
 ## ⚙️ <u>Additional Steps</u>
 * Configure [SSH](http://kbroman.org/github_tutorial/pages/first_time.html)
 * After installing VSCode, [add Code to Path](https://code.visualstudio.com/docs/setup/mac) and install extensions listed at bottom of this ReadMe
-* Install [Expo](https://docs.expo.io/get-started/installation/), register, and login
 * After installing Android Studio, there's some additional setup required:
 1. Open Android Studio
 2. On the main home screen, click `More Actions` dropdown and select `SDK Manager`

@@ -9,15 +9,9 @@ How I setup my machines for mobile app development and web development.
 # install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-# install asdf
-brew install asdf
-echo -e "\n. \"$(brew --prefix asdf)/libexec/asdf.sh\"" >> ~/.bash_profile
-echo -e "\n. \"$(brew --prefix asdf)/etc/bash_completion.d/asdf.bash\"" >> ~/.bash_profile
-
 brew tap wix/brew
 brew install git nvm yarn watchman openjdk applesimutils cocoapods
-
-brew install --cask google-chrome visual-studio-code android-studio react-native-debugger vpn-by-google-one kap whatsapp slack zoom rectangle steam
+brew install --cask asdf google-chrome visual-studio-code android-studio react-native-debugger vpn-by-google-one kap whatsapp slack zoom rectangle steam
 
 npm install -g react-native-cli @react-native-community/cli expo-cli
 

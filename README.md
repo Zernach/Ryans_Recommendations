@@ -17,12 +17,17 @@ echo -e "\n. \"$(brew --prefix asdf)/etc/bash_completion.d/asdf.bash\"" >> ~/.ba
 brew tap wix/brew
 brew install git nvm yarn watchman openjdk applesimutils cocoapods
 
-source ~/.nvm/nvm.sh
-
 brew install --cask google-chrome visual-studio-code android-studio react-native-debugger vpn-by-google-one kap whatsapp slack zoom rectangle steam
 
 npm install -g react-native-cli @react-native-community/cli expo-cli
 
+```
+
+## ⚙️ <u>.zshrc</u>
+```sh
+echo -e "\n. \"$(brew --prefix asdf)/libexec/asdf.sh\"" >> ~/.bash_profile
+echo -e "\n. \"$(brew --prefix asdf)/etc/bash_completion.d/asdf.bash\"" >> ~/.bash_profile
+source ~/.nvm/nvm.sh
 ```
 
 ## ⚙️ <u>Additional Steps</u>

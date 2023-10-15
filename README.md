@@ -10,7 +10,7 @@ How I setup my machines for mobile app development and web development.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 brew tap wix/brew
-brew install git nvm yarn watchman openjdk applesimutils cocoapods
+brew install git nvm yarn watchman openjdk applesimutils cocoapods ios-deploy
 brew install --cask asdf google-chrome visual-studio-code android-studio react-native-debugger vpn-by-google-one kap whatsapp slack zoom rectangle steam
 
 npm install -g react-native-cli @react-native-community/cli expo-cli lint-staged

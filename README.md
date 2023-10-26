@@ -30,7 +30,7 @@ echo -e "\n\n\"$(brew --prefix asdf)/libexec/asdf.sh\"\n\n\"$(brew --prefix asdf
 
 5. Use npm to Globally Install Some SDK's
 ```sh
-npm install -g react-native-cli @react-native-community/cli expo-cli lint-staged create-expo-app
+npm install -g react-native-cli @react-native-community/cli expo-cli lint-staged create-expo-app ignite-cli@lates
 ```
 
 6. Login to Expo

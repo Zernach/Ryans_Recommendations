@@ -15,7 +15,7 @@
 ```sh
 brew tap wix/brew; 
 brew install git nvm yarn watchman openjdk applesimutils cocoapods ios-deploy asdf expo-orbit; 
-brew install --cask asdf google-chrome visual-studio-code android-studio react-native-debugger vpn-by-google-one kap whatsapp slack zoom rectangle steam; 
+brew install --cask asdf reactotron google-chrome visual-studio-code android-studio react-native-debugger vpn-by-google-one kap whatsapp slack zoom rectangle steam; 
 ```
 
 3. Install oh-my-zsh

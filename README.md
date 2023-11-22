@@ -26,6 +26,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 4. Add Lines to Your ./.zshrc File
 ```sh
 echo -e "\n\n\"$(brew --prefix asdf)/libexec/asdf.sh\"\n\n\"$(brew --prefix asdf)/etc/bash_completion.d/asdf.bash\" \n\neval "$(/opt/homebrew/bin/brew shellenv)" \n\nsource ~/.nvm/nvm.sh" >> ~/.zshrc;
+echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
 ```
 
 5. Use npm to Globally Install Some SDK's

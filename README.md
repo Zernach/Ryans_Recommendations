@@ -121,14 +121,9 @@ Next make sure [XCode from the MacBook App Store](https://apps.apple.com/us/app/
 
 ## ⚙️ <u>Android Studio Setup</u>
 * After installing Android Studio using HomeBrew above, there's some additional setup required:
-1. Open Android Studio
-2. On the main home screen, click `More Actions` dropdown and select `SDK Manager`
-3. Check the box next to `Android SDK Command-line Tools (latest)`
-4. Switch to the `SDK Platforms` tab
-5. Check the box next to `Android 12L (Sv2)`
-6. Check the `Show Package Details` box at the bottom of the screen
-7. Under the Android 12L (Sv2) section check the box `Google APIs Intel x86 Atom_64 System Image`
-8. Finally, click Apply and then Ok, accept license agreements as needed
+1. Open Android Studio, and on the main home screen, click `More Actions` dropdown and select `SDK Manager`
+2. Check the box next to `Android SDK Command-line Tools (latest)`
+3. Finally, click Apply and then Ok, accept license agreements as needed
 After installing everything in the above steps, then make sure the following environment variables are in your `~/.zshrc` file (or `~/.bashrc` file if you use `bash`) — **but it's important that you replace "yourUsername" below with your actual laptop's username:**
 
 ```

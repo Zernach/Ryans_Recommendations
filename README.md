@@ -80,6 +80,7 @@ code --uninstall-extension ms-python.vscode-pylance ms-python.python;
 code --uninstall-extension msjsdiag.vscode-react-native;
 code --uninstall-extension alexcvzz.vscode-sqlite tomoki1207.pdf;
 code --uninstall-extension eamodio.gitlens;
+code --uninstall-extension ms-azuretools.vscode-docker;
 ```
 5. Install VSCode Extensions
 ```sh
@@ -98,6 +99,7 @@ code --install-extension ms-python.python;
 code --install-extension msjsdiag.vscode-react-native alexcvzz.vscode-sqlite;
 code --install-extension tomoki1207.pdf;
 code --install-extension eamodio.gitlens;
+code --install-extension ms-azuretools.vscode-docker;
 ```
 6. Downloads from MacBook App Store:
     * XCode

@@ -14,7 +14,7 @@
 2. Use HomeBrew to Install Stuff
 ```sh
 brew tap wix/brew; 
-brew install git nvm yarn watchman openjdk applesimutils cocoapods ios-deploy asdf expo-orbit; 
+brew install git nvm yarn watchman openjdk applesimutils cocoapods ios-deploy asdf expo-orbit pyenv; 
 brew install --cask asdf reactotron google-chrome visual-studio-code android-studio react-native-debugger vpn-by-google-one surfshark kap whatsapp slack zoom rectangle steam; 
 ```
 

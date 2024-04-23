@@ -6,7 +6,7 @@
 
 ## ⚙️ <u>Scripts</u>
 
-1. Install HomeBrew
+1. Install HomeBrew (when finished installing, copy the two lines of code in your terminal and run them to add HomeBrew initialization scripts to your shell)
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```

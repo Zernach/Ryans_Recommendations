@@ -36,7 +36,7 @@ echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
 
 6. Use npm to Globally Install Some SDK's
 ```sh
-npm install -g react-native-cli @react-native-community/cli expo-cli lint-staged create-expo-app ignite-cli@lates
+npm install -g react-native-cli @react-native-community/cli expo-cli lint-staged create-expo-app ignite-cli@latest
 ```
 
 7. Login to Expo

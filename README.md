@@ -14,27 +14,32 @@
 2. Use HomeBrew to Install Stuff
 ```sh
 brew tap wix/brew; 
-brew install git nvm yarn watchman openjdk applesimutils cocoapods ios-deploy asdf expo-orbit pyenv hasura-cli; 
+brew install git yarn watchman openjdk applesimutils cocoapods ios-deploy asdf expo-orbit pyenv hasura-cli; 
 brew install --cask reactotron google-chrome visual-studio-code android-studio react-native-debugger vpn-by-google-one surfshark kap whatsapp slack zoom rectangle steam; 
 ```
 
-3. Install oh-my-zsh
+3. Setup nvm (brew install, and then make sure to add the shell initialization scripts by running the commands that are provided by your terminal upon successful brew install)
+```sh
+brew install nvm
+```
+
+4. Install oh-my-zsh
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-4. Add Lines to Your ./.zshrc File
+5. Add Lines to Your ./.zshrc File
 ```sh
 echo -e "\n\n\"$(brew --prefix asdf)/libexec/asdf.sh\"\n\n\"$(brew --prefix asdf)/etc/bash_completion.d/asdf.bash\" \n\neval "$(/opt/homebrew/bin/brew shellenv)" \n\nsource ~/.nvm/nvm.sh" >> ~/.zshrc;
 echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
 ```
 
-5. Use npm to Globally Install Some SDK's
+6. Use npm to Globally Install Some SDK's
 ```sh
 npm install -g react-native-cli @react-native-community/cli expo-cli lint-staged create-expo-app ignite-cli@lates
 ```
 
-6. Login to Expo
+7. Login to Expo
 ```sh
 expo login
 ```

@@ -19,7 +19,7 @@ brew install git yarn watchman openjdk applesimutils cocoapods ios-deploy expo-o
 ```sh
 brew install --cask google-chrome; // web browser
 brew install --cask visual-studio-code; // code editor
-brew install --cask android-studio; // official software for android device emulation
+brew install --cask android-studio; // official android software
 brew install --cask react-native-debugger reactotron; // optional react native toolkits
 brew install --cask surfshark; // my preferred vpn provider
 brew install --cask kap; // open-sourced screen video recording software

@@ -99,6 +99,7 @@ code --uninstall-extension alexcvzz.vscode-sqlite tomoki1207.pdf;
 code --uninstall-extension eamodio.gitlens;
 code --uninstall-extension ms-azuretools.vscode-docker;
 code --uninstall-extension dbaeumer.vscode-eslint;
+code --uninstall-extension dsznajder.es7-react-js-snippets;
 ```
 5. Install VSCode Extensions
 ```sh
@@ -119,6 +120,7 @@ code --install-extension tomoki1207.pdf;
 code --install-extension eamodio.gitlens;
 code --install-extension ms-azuretools.vscode-docker;
 code --install-extension dbaeumer.vscode-eslint;
+code --install-extension dsznajder.es7-react-js-snippets;
 ```
 6. Downloads from MacBook App Store:
     * XCode

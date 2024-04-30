@@ -14,8 +14,20 @@
 2. Use HomeBrew to Install Stuff
 ```sh
 brew tap wix/brew; 
-brew install git yarn watchman openjdk applesimutils cocoapods ios-deploy asdf expo-orbit pyenv hasura-cli; 
-brew install --cask reactotron google-chrome visual-studio-code android-studio react-native-debugger vpn-by-google-one surfshark kap whatsapp slack zoom rectangle steam; 
+brew install git yarn watchman openjdk applesimutils cocoapods ios-deploy expo-orbit pyenv hasura-cli;
+```
+```sh
+brew install --cask google-chrome; // web browser
+brew install --cask visual-studio-code; // code editor
+brew install --cask android-studio; // official software for android device emulation
+brew install --cask react-native-debugger reactotron; // optional react native toolkits
+brew install --cask surfshark; // my preferred vpn provider
+brew install --cask kap; // open-sourced screen video recording software
+brew install --cask whatsapp; // communications
+brew install --cask slack; // communications
+brew install --cask zoom; // will require your sudo auth machine login credentials
+brew install --cask rectangle; // window organizer
+brew install --cask steam; // gaming
 ```
 
 3. Setup nvm (brew install, and then make sure to add the shell initialization scripts by running the commands that are provided by your terminal upon successful brew install)

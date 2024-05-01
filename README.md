@@ -1,5 +1,5 @@
 # 📱 Mobile App Development Installation Guide
-💻 Everything Needed for React Native Mobile App Development on a New Laptop
+💻 Everything Needed for React Native Mobile App Development on a New MacBook
 
 <br/>
 <br/>

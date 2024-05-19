@@ -14,7 +14,7 @@
 2. Use HomeBrew to Install Stuff
 ```sh
 brew tap wix/brew; 
-brew install git yarn watchman openjdk applesimutils cocoapods ios-deploy expo-orbit docker pyenv hasura-cli postgresql;
+brew install git yarn watchman openjdk applesimutils cocoapods ios-deploy expo-orbit pyenv hasura-cli postgresql;
 ```
 ```sh
 brew install --cask google-chrome; // web browser
@@ -25,6 +25,7 @@ brew install --cask surfshark; // my preferred vpn provider
 brew install --cask kap; // open-sourced screen video recording software
 brew install --cask whatsapp; // communications
 brew install --cask slack; // communications
+brew install --cask docker; // if you plan to develop with any docker containers/images
 brew install --cask zoom; // will require your sudo auth machine login credentials
 brew install --cask rectangle; // window organizer
 brew install --cask steam; // gaming

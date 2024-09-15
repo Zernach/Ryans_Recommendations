@@ -15,6 +15,7 @@
 ```sh
 brew tap wix/brew; 
 brew install git yarn watchman openjdk applesimutils cocoapods ios-deploy expo-orbit pyenv hasura-cli postgresql;
+brew tap heroku/brew && brew install heroku
 ```
 ```sh
 brew install --cask google-chrome; // web browser

@@ -14,7 +14,7 @@
 2. Use HomeBrew to Install Stuff
 ```sh
 brew tap wix/brew; 
-brew install git yarn watchman openjdk applesimutils cocoapods ios-deploy expo-orbit pyenv wget asura-cli postgresql;
+brew install git yarn watchman openjdk applesimutils cocoapods ios-deploy expo-orbit pyenv wget asura-cli postgresql tesseract;
 brew tap heroku/brew && brew install heroku
 ```
 ```sh
